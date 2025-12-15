@@ -1,0 +1,20 @@
+[
+    {
+        "id": "slider_6888a4ae253f5",
+        "name": "الدوري الانجليزي الممتاز",
+        "image": "https:\/\/app.fanlive.org\/uploads\/1753956482_Picsart_25-07-31_13-07-37-544.jpg",
+        "type": "2",
+        "value": "dfe6eedb-ba53-4d1a-a994-f3d2471925c7",
+        "section": "1",
+        "order": 0
+    },
+    {
+        "id": "slider_690b8a0c03b96",
+        "name": "انضم الي قناة التليجرام",
+        "image": "https:\/\/app.fanlive.org\/uploads\/1762607618_Picsart_25-11-08_15-13-17-152.jpg",
+        "type": "4",
+        "value": "https:\/\/t.me\/fanlivetv",
+        "section": "0",
+        "order": 1
+    }
+]

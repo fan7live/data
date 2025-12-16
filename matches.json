@@ -1,20 +1,5 @@
 [
     {
-        "name1": "مصر",
-        "logo1": "https://imgs.ysscores.com/teams/64/9301763071949.png",
-        "name2": "نيجيريا",
-        "logo2": "https://imgs.ysscores.com/teams/64/9961763084205.png",
-        "start_time": 1765908000,
-        "end_time": 1765915200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6940c24e5e212",
-        "match_status": "مباشر",
-        "channel_id": "09525dc7-80da-43a8-9f34-827c97afbaa8",
-        "section": 1
-    },
-    {
         "name1": "كارديف سيتي",
         "logo1": "https://imgs.ysscores.com/teams/64/3761690370521.png",
         "name2": "تشيلسي",
@@ -25,7 +10,7 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_6940c2617fc5e",
-        "match_status": "لم تبدأ",
+        "match_status": "مباشر",
         "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     },
@@ -40,8 +25,23 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_6940c271e306b",
-        "match_status": "لم تبدأ",
+        "match_status": "مباشر",
         "channel_id": "ac1f4831-3915-4228-80d8-960930edd57a",
         "section": 2
+    },
+    {
+        "name1": "مصر",
+        "logo1": "https://imgs.ysscores.com/teams/64/9301763071949.png",
+        "name2": "نيجيريا",
+        "logo2": "https://imgs.ysscores.com/teams/64/9961763084205.png",
+        "start_time": 1765908000,
+        "end_time": 1765915200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6940c24e5e212",
+        "match_status": "انتهت",
+        "channel_id": "09525dc7-80da-43a8-9f34-827c97afbaa8",
+        "section": 1
     }
 ]

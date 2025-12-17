@@ -88,5 +88,20 @@
         "match_status": "انتهت",
         "channel_id": "f0d5144f-9290-40bc-9cee-d7b820431107",
         "section": 1
+    },
+    {
+        "name1": "تجريبي",
+        "logo1": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+        "name2": "تجريبي",
+        "logo2": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+        "start_time": 1766015220,
+        "end_time": 1766015160,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694340e29755e",
+        "match_status": "انتهت",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -58,5 +58,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "تالافيرا",
+        "logo1": "https://imgs.ysscores.com/teams/64/17658045385817.png",
+        "name2": "ريال مدريد",
+        "logo2": "https://imgs.ysscores.com/teams/64/1871690196746.png",
+        "start_time": 1766001600,
+        "end_time": 1766008800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6942294861ac9",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

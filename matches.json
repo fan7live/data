@@ -1,20 +1,5 @@
 [
     {
-        "name1": "كريستال بالاس",
-        "logo1": "https://imgs.ysscores.com/teams/64/6121690118883.png",
-        "name2": "بالوسيور",
-        "logo2": "https://imgs.ysscores.com/teams/64/2361751839313.png",
-        "start_time": 1766088000,
-        "end_time": 1766095200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6943c692a8139",
-        "match_status": "مباشر",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
-        "section": 1
-    },
-    {
         "name1": "السعودية",
         "logo1": "https://imgs.ysscores.com/teams/64/7171763086301.png",
         "name2": "الإمارات",
@@ -57,6 +42,21 @@
         "id": "manual_6943c626c1721",
         "match_status": "انتهت",
         "channel_id": "484cdb1e-2a0b-4773-b2a7-0484abefc9e5",
+        "section": 1
+    },
+    {
+        "name1": "كريستال بالاس",
+        "logo1": "https://imgs.ysscores.com/teams/64/6121690118883.png",
+        "name2": "بالوسيور",
+        "logo2": "https://imgs.ysscores.com/teams/64/2361751839313.png",
+        "start_time": 1766088000,
+        "end_time": 1766095200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6943c692a8139",
+        "match_status": "انتهت",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     }
 ]

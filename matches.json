@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "السعودية",
+        "logo1": "https://imgs.ysscores.com/teams/64/7171763086301.png",
+        "name2": "الإمارات",
+        "logo2": "https://imgs.ysscores.com/teams/64/9431763117463.png",
+        "start_time": 1766055600,
+        "end_time": 1766062800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6943bdf68a66e",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

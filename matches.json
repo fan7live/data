@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "فالنسيا",
+        "logo1": "https://imgs.ysscores.com/teams/64/7881690196747.png",
+        "name2": "ريال مايوركا",
+        "logo2": "https://imgs.ysscores.com/teams/64/5291690196746.png",
+        "start_time": 1766174400,
+        "end_time": 1766181600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6944a7d4eab0b",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

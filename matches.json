@@ -1,20 +1,5 @@
 [
     {
-        "name1": "دورتموند",
-        "logo1": "https://imgs.ysscores.com/teams/64/4201690288818.png",
-        "name2": "مونشنغلادباخ",
-        "logo2": "https://imgs.ysscores.com/teams/64/4571690288818.png",
-        "start_time": 1766172600,
-        "end_time": 1766179800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6944a7c7ae0ae",
-        "match_status": "مباشر",
-        "channel_id": "9e7d0edd-459c-42a6-ba0b-0c15274fa42c",
-        "section": 1
-    },
-    {
         "name1": "فالنسيا",
         "logo1": "https://imgs.ysscores.com/teams/64/7881690196747.png",
         "name2": "ريال مايوركا",
@@ -42,6 +27,21 @@
         "id": "manual_6944a7ba4c777",
         "match_status": "انتهت",
         "channel_id": "6289f727-0d00-4718-8550-4a2d586e6544",
+        "section": 1
+    },
+    {
+        "name1": "دورتموند",
+        "logo1": "https://imgs.ysscores.com/teams/64/4201690288818.png",
+        "name2": "مونشنغلادباخ",
+        "logo2": "https://imgs.ysscores.com/teams/64/4571690288818.png",
+        "start_time": 1766172600,
+        "end_time": 1766179800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6944a7c7ae0ae",
+        "match_status": "انتهت",
+        "channel_id": "9e7d0edd-459c-42a6-ba0b-0c15274fa42c",
         "section": 1
     }
 ]

@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "بولونيا",
+        "logo1": "https://imgs.ysscores.com/teams/64/4281690283003.png",
+        "name2": "إنتر ميلان",
+        "logo2": "https://imgs.ysscores.com/teams/64/3101690283003.png",
+        "start_time": 1766170800,
+        "end_time": 1766178000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6944a7ba4c777",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

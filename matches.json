@@ -1,20 +1,5 @@
 [
     {
-        "name1": "فالنسيا",
-        "logo1": "https://imgs.ysscores.com/teams/64/7881690196747.png",
-        "name2": "ريال مايوركا",
-        "logo2": "https://imgs.ysscores.com/teams/64/5291690196746.png",
-        "start_time": 1766174400,
-        "end_time": 1766181600,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6944a7d4eab0b",
-        "match_status": "مباشر",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
-        "section": 1
-    },
-    {
         "name1": "بولونيا",
         "logo1": "https://imgs.ysscores.com/teams/64/4281690283003.png",
         "name2": "إنتر ميلان",
@@ -42,6 +27,21 @@
         "id": "manual_6944a7c7ae0ae",
         "match_status": "انتهت",
         "channel_id": "9e7d0edd-459c-42a6-ba0b-0c15274fa42c",
+        "section": 1
+    },
+    {
+        "name1": "فالنسيا",
+        "logo1": "https://imgs.ysscores.com/teams/64/7881690196747.png",
+        "name2": "ريال مايوركا",
+        "logo2": "https://imgs.ysscores.com/teams/64/5291690196746.png",
+        "start_time": 1766174400,
+        "end_time": 1766181600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6944a7d4eab0b",
+        "match_status": "انتهت",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     }
 ]

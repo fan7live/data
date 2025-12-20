@@ -88,5 +88,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "أوساسونا",
+        "logo1": "https://imgs.ysscores.com/teams/64/7961690196745.png",
+        "name2": "ألافيس",
+        "logo2": "https://imgs.ysscores.com/teams/64/2381690196746.png",
+        "start_time": 1766251800,
+        "end_time": 1766259000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6945f60a34c3e",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

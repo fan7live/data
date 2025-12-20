@@ -1,20 +1,5 @@
 [
     {
-        "name1": "يوفنتوس",
-        "logo1": "https://imgs.ysscores.com/teams/64/9331690283003.png",
-        "name2": "روما",
-        "logo2": "https://imgs.ysscores.com/teams/64/1041749305816.png",
-        "start_time": 1766259900,
-        "end_time": 1766267100,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6945f6207c960",
-        "match_status": "مباشر",
-        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
-        "section": 1
-    },
-    {
         "name1": "إيفرتون",
         "logo1": "https://imgs.ysscores.com/teams/64/8461690118694.png",
         "name2": "أرسنال",
@@ -162,6 +147,21 @@
         "id": "manual_6945f60a34c3e",
         "match_status": "انتهت",
         "channel_id": "5629d0fa-6cac-47fd-bcb4-c6df271d8a09",
+        "section": 1
+    },
+    {
+        "name1": "يوفنتوس",
+        "logo1": "https://imgs.ysscores.com/teams/64/9331690283003.png",
+        "name2": "روما",
+        "logo2": "https://imgs.ysscores.com/teams/64/1041749305816.png",
+        "start_time": 1766259900,
+        "end_time": 1766267100,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6945f6207c960",
+        "match_status": "انتهت",
+        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
         "section": 1
     }
 ]

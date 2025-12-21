@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "جيرونا",
+        "logo1": "https://imgs.ysscores.com/teams/64/3151690196742.png",
+        "name2": "أتلتيكو مدريد",
+        "logo2": "https://imgs.ysscores.com/teams/64/1431719588699.png",
+        "start_time": 1766322000,
+        "end_time": 1766329200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6947561e2f2de",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

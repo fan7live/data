@@ -73,5 +73,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "الشرطة",
+        "logo1": "https://imgs.ysscores.com/teams/64/8281729976264.png",
+        "name2": "الأهلي",
+        "logo2": "https://imgs.ysscores.com/teams/64/9091751485160.png",
+        "start_time": 1766427300,
+        "end_time": 1766434500,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6948e56027880",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

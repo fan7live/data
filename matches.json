@@ -73,5 +73,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "تونس",
+        "logo1": "https://imgs.ysscores.com/teams/64/8201763117043.png",
+        "name2": "أوغندا",
+        "logo2": "https://imgs.ysscores.com/teams/64/2921763117370.png",
+        "start_time": 1766520000,
+        "end_time": 1766527200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694a637caec59",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

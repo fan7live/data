@@ -1,20 +1,5 @@
 [
     {
-        "name1": "النصر",
-        "logo1": "https://imgs.ysscores.com/teams/64/1371747772080.png",
-        "name2": "الزوراء",
-        "logo2": "https://imgs.ysscores.com/teams/64/2961729878835.png",
-        "start_time": 1766592000,
-        "end_time": 1766599200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_694b71686dd01",
-        "match_status": "مباشر",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
-        "section": 1
-    },
-    {
         "name1": "كوت ديفوار",
         "logo1": "https://imgs.ysscores.com/teams/64/391763071210.png",
         "name2": "موزمبيق",
@@ -72,6 +57,21 @@
         "id": "manual_694b714a46381",
         "match_status": "انتهت",
         "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
+        "section": 1
+    },
+    {
+        "name1": "النصر",
+        "logo1": "https://imgs.ysscores.com/teams/64/1371747772080.png",
+        "name2": "الزوراء",
+        "logo2": "https://imgs.ysscores.com/teams/64/2961729878835.png",
+        "start_time": 1766592000,
+        "end_time": 1766599200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694b71686dd01",
+        "match_status": "انتهت",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     }
 ]

@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "بوركينا فاسو",
+        "logo1": "https://imgs.ysscores.com/teams/64/9521763070286.png",
+        "name2": "غينيا الاستوائية",
+        "logo2": "https://imgs.ysscores.com/teams/64/3871763072297.png",
+        "start_time": 1766579400,
+        "end_time": 1766586600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694b70fca177f",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

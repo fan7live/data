@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "أنغولا",
+        "logo1": "https://imgs.ysscores.com/teams/64/2151763067065.png",
+        "name2": "زيمبابوي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4021763118330.png",
+        "start_time": 1766752200,
+        "end_time": 1766759400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694e3c979546d",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

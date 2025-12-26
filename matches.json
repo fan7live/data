@@ -58,5 +58,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "الهلال",
+        "logo1": "https://imgs.ysscores.com/teams/64/8761690298716.png",
+        "name2": "الخليج",
+        "logo2": "https://imgs.ysscores.com/teams/64/7451690299071.png",
+        "start_time": 1766770200,
+        "end_time": 1766777400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694e3d2ac1480",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

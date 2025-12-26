@@ -88,5 +88,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "مان يونايتد",
+        "logo1": "https://imgs.ysscores.com/teams/64/4871690119302.png",
+        "name2": "نيوكاسل",
+        "logo2": "https://imgs.ysscores.com/teams/64/3721690119405.png",
+        "start_time": 1766779200,
+        "end_time": 1766786400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694e3d580930c",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

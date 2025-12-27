@@ -73,5 +73,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "بيرنلي",
+        "logo1": "https://imgs.ysscores.com/teams/64/7301690118156.png",
+        "name2": "إيفرتون",
+        "logo2": "https://imgs.ysscores.com/teams/64/8461690118694.png",
+        "start_time": 1766847600,
+        "end_time": 1766854800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694fadfb17439",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

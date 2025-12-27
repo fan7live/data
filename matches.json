@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "بنين",
+        "logo1": "https://imgs.ysscores.com/teams/64/8421763069265.png",
+        "name2": "بوتسوانا",
+        "logo2": "https://imgs.ysscores.com/teams/64/4041763069740.png",
+        "start_time": 1766838600,
+        "end_time": 1766845800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694fad4b4d714",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

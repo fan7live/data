@@ -1,35 +1,5 @@
 [
     {
-        "name1": "بنين",
-        "logo1": "https://imgs.ysscores.com/teams/64/8421763069265.png",
-        "name2": "بوتسوانا",
-        "logo2": "https://imgs.ysscores.com/teams/64/4041763069740.png",
-        "start_time": 1766838600,
-        "end_time": 1766845800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_694fad4b4d714",
-        "match_status": "مباشر",
-        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
-        "section": 1
-    },
-    {
-        "name1": "نوتينغهام",
-        "logo1": "https://imgs.ysscores.com/teams/64/7741690119007.png",
-        "name2": "مان سيتي",
-        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
-        "start_time": 1766838600,
-        "end_time": 1766845800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_694fad5739b07",
-        "match_status": "مباشر",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
-        "section": 1
-    },
-    {
         "name1": "النصر",
         "logo1": "https://imgs.ysscores.com/teams/64/1371747772080.png",
         "name2": "الأخدود",
@@ -207,6 +177,36 @@
         "id": "manual_694faeae3392a",
         "match_status": "لم تبدأ",
         "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
+        "section": 1
+    },
+    {
+        "name1": "بنين",
+        "logo1": "https://imgs.ysscores.com/teams/64/8421763069265.png",
+        "name2": "بوتسوانا",
+        "logo2": "https://imgs.ysscores.com/teams/64/4041763069740.png",
+        "start_time": 1766838600,
+        "end_time": 1766845800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694fad4b4d714",
+        "match_status": "انتهت",
+        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
+        "section": 1
+    },
+    {
+        "name1": "نوتينغهام",
+        "logo1": "https://imgs.ysscores.com/teams/64/7741690119007.png",
+        "name2": "مان سيتي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
+        "start_time": 1766838600,
+        "end_time": 1766845800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694fad5739b07",
+        "match_status": "انتهت",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     }
 ]

@@ -148,5 +148,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "أوغندا",
+        "logo1": "https://imgs.ysscores.com/teams/64/2921763117370.png",
+        "name2": "تنزانيا",
+        "logo2": "https://imgs.ysscores.com/teams/64/3241763087791.png",
+        "start_time": 1766856600,
+        "end_time": 1766863800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694fae68219f8",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -163,5 +163,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "الاتحاد",
+        "logo1": "https://imgs.ysscores.com/teams/64/2231690298782.png",
+        "name2": "الشباب",
+        "logo2": "https://imgs.ysscores.com/teams/64/4261690298871.png",
+        "start_time": 1766856600,
+        "end_time": 1766863800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_694fae7aa5e81",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

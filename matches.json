@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "غينيا الاستوائية",
+        "logo1": "https://imgs.ysscores.com/teams/64/3871763072297.png",
+        "name2": "السودان",
+        "logo2": "https://imgs.ysscores.com/teams/64/6511763087361.png",
+        "start_time": 1766934000,
+        "end_time": 1766941200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6951439f559ab",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

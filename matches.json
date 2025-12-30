@@ -103,5 +103,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "تنزانيا",
+        "logo1": "https://imgs.ysscores.com/teams/64/3241763087791.png",
+        "name2": "تونس",
+        "logo2": "https://imgs.ysscores.com/teams/64/8201763117043.png",
+        "start_time": 1767110400,
+        "end_time": 1767117600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69531ea92b289",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

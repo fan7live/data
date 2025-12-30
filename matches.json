@@ -1,35 +1,5 @@
 [
     {
-        "name1": "أوغندا",
-        "logo1": "https://imgs.ysscores.com/teams/64/2921763117370.png",
-        "name2": "نيجيريا",
-        "logo2": "https://imgs.ysscores.com/teams/64/9961763084205.png",
-        "start_time": 1767110400,
-        "end_time": 1767117600,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_69531e97d7498",
-        "match_status": "مباشر",
-        "channel_id": "71707bf9-0272-48a2-afee-323c22fa3fa4",
-        "section": 1
-    },
-    {
-        "name1": "تنزانيا",
-        "logo1": "https://imgs.ysscores.com/teams/64/3241763087791.png",
-        "name2": "تونس",
-        "logo2": "https://imgs.ysscores.com/teams/64/8201763117043.png",
-        "start_time": 1767110400,
-        "end_time": 1767117600,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_69531ea92b289",
-        "match_status": "مباشر",
-        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
-        "section": 1
-    },
-    {
         "name1": "الاتفاق",
         "logo1": "https://imgs.ysscores.com/teams/64/1151690298845.png",
         "name2": "النصر",
@@ -132,6 +102,36 @@
         "id": "manual_69531ed8f3451",
         "match_status": "لم تبدأ",
         "channel_id": "71707bf9-0272-48a2-afee-323c22fa3fa4",
+        "section": 1
+    },
+    {
+        "name1": "أوغندا",
+        "logo1": "https://imgs.ysscores.com/teams/64/2921763117370.png",
+        "name2": "نيجيريا",
+        "logo2": "https://imgs.ysscores.com/teams/64/9961763084205.png",
+        "start_time": 1767110400,
+        "end_time": 1767117600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69531e97d7498",
+        "match_status": "انتهت",
+        "channel_id": "71707bf9-0272-48a2-afee-323c22fa3fa4",
+        "section": 1
+    },
+    {
+        "name1": "تنزانيا",
+        "logo1": "https://imgs.ysscores.com/teams/64/3241763087791.png",
+        "name2": "تونس",
+        "logo2": "https://imgs.ysscores.com/teams/64/8201763117043.png",
+        "start_time": 1767110400,
+        "end_time": 1767117600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69531ea92b289",
+        "match_status": "انتهت",
+        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
         "section": 1
     },
     {

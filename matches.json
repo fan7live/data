@@ -13,5 +13,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "غينيا الاستوائية",
+        "logo1": "https://imgs.ysscores.com/teams/64/3871763072297.png",
+        "name2": "الجزائر",
+        "logo2": "https://imgs.ysscores.com/teams/64/2341763066345.png",
+        "start_time": 1767196800,
+        "end_time": 1767204000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6954fbfd54a4a",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "السودان",
+        "logo1": "https://imgs.ysscores.com/teams/64/6511763087361.png",
+        "name2": "بوركينا فاسو",
+        "logo2": "https://imgs.ysscores.com/teams/64/9521763070286.png",
+        "start_time": 1767196800,
+        "end_time": 1767204000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6954fc0ac5941",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -58,5 +58,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "الغابون",
+        "logo1": "https://imgs.ysscores.com/teams/64/8751763078081.png",
+        "name2": "كوت ديفوار",
+        "logo2": "https://imgs.ysscores.com/teams/64/391763071210.png",
+        "start_time": 1767207600,
+        "end_time": 1767214800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6954fc320ceca",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

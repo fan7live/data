@@ -1,20 +1,5 @@
 [
     {
-        "name1": "يوفنتوس",
-        "logo1": "https://imgs.ysscores.com/teams/64/9331690283003.png",
-        "name2": "ليتشي",
-        "logo2": "https://imgs.ysscores.com/teams/64/9031690283003.png",
-        "start_time": 1767459600,
-        "end_time": 1767466800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_69586210c5c79",
-        "match_status": "مباشر",
-        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
-        "section": 1
-    },
-    {
         "name1": "بورنموث",
         "logo1": "https://imgs.ysscores.com/teams/64/7651690118769.png",
         "name2": "أرسنال",
@@ -55,7 +40,7 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_69586244bf562",
-        "match_status": "لم تبدأ",
+        "match_status": "مباشر",
         "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
         "section": 1
     },
@@ -147,6 +132,21 @@
         "id": "manual_695861edc61fc",
         "match_status": "انتهت",
         "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
+        "section": 1
+    },
+    {
+        "name1": "يوفنتوس",
+        "logo1": "https://imgs.ysscores.com/teams/64/9331690283003.png",
+        "name2": "ليتشي",
+        "logo2": "https://imgs.ysscores.com/teams/64/9031690283003.png",
+        "start_time": 1767459600,
+        "end_time": 1767466800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69586210c5c79",
+        "match_status": "انتهت",
+        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
         "section": 1
     }
 ]

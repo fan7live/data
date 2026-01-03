@@ -1,20 +1,5 @@
 [
     {
-        "name1": "مالي",
-        "logo1": "https://imgs.ysscores.com/teams/64/7571763083037.png",
-        "name2": "تونس",
-        "logo2": "https://imgs.ysscores.com/teams/64/8201763117043.png",
-        "start_time": 1767466800,
-        "end_time": 1767474000,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_69586244bf562",
-        "match_status": "مباشر",
-        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
-        "section": 1
-    },
-    {
         "name1": "إسبانيول",
         "logo1": "https://imgs.ysscores.com/teams/64/4481690370529.png",
         "name2": "برشلونة",
@@ -147,6 +132,21 @@
         "id": "manual_69586236237c5",
         "match_status": "انتهت",
         "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
+        "section": 1
+    },
+    {
+        "name1": "مالي",
+        "logo1": "https://imgs.ysscores.com/teams/64/7571763083037.png",
+        "name2": "تونس",
+        "logo2": "https://imgs.ysscores.com/teams/64/8201763117043.png",
+        "start_time": 1767466800,
+        "end_time": 1767474000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69586244bf562",
+        "match_status": "انتهت",
+        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
         "section": 1
     }
 ]

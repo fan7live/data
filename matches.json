@@ -58,5 +58,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "السنغال",
+        "logo1": "https://imgs.ysscores.com/teams/64/1831763086441.png",
+        "name2": "السودان",
+        "logo2": "https://imgs.ysscores.com/teams/64/6511763087361.png",
+        "start_time": 1767456000,
+        "end_time": 1767463200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695861edc61fc",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

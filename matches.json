@@ -163,5 +163,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "جنوب أفريقيا",
+        "logo1": "https://imgs.ysscores.com/teams/64/1791763086999.png",
+        "name2": "الكاميرون",
+        "logo2": "https://imgs.ysscores.com/teams/64/1341763070498.png",
+        "start_time": 1767553200,
+        "end_time": 1767560400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695a469e80af4",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

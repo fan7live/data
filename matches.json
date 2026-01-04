@@ -1,20 +1,5 @@
 [
     {
-        "name1": "ريال سوسيداد",
-        "logo1": "https://imgs.ysscores.com/teams/64/9441690196745.png",
-        "name2": "أتلتيكو مدريد",
-        "logo2": "https://imgs.ysscores.com/teams/64/1431719588699.png",
-        "start_time": 1767556800,
-        "end_time": 1767564000,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_695a46d184daf",
-        "match_status": "مباشر",
-        "channel_id": "f0d5144f-9290-40bc-9cee-d7b820431107",
-        "section": 1
-    },
-    {
         "name1": "لاتسيو",
         "logo1": "https://imgs.ysscores.com/teams/64/5111690283002.png",
         "name2": "نابولي",
@@ -192,6 +177,21 @@
         "id": "manual_695a46bd53682",
         "match_status": "انتهت",
         "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
+        "section": 1
+    },
+    {
+        "name1": "ريال سوسيداد",
+        "logo1": "https://imgs.ysscores.com/teams/64/9441690196745.png",
+        "name2": "أتلتيكو مدريد",
+        "logo2": "https://imgs.ysscores.com/teams/64/1431719588699.png",
+        "start_time": 1767556800,
+        "end_time": 1767564000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695a46d184daf",
+        "match_status": "انتهت",
+        "channel_id": "f0d5144f-9290-40bc-9cee-d7b820431107",
         "section": 1
     }
 ]

@@ -193,5 +193,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "باريس",
+        "logo1": "https://imgs.ysscores.com/teams/64/4461690287785.png",
+        "name2": "نادي باريس",
+        "logo2": "https://imgs.ysscores.com/teams/64/6551690370501.png",
+        "start_time": 1767555900,
+        "end_time": 1767563100,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695a46bd53682",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

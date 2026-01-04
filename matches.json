@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "إشبيلية",
+        "logo1": "https://imgs.ysscores.com/teams/64/6931690196743.png",
+        "name2": "ليفانتي",
+        "logo2": "https://imgs.ysscores.com/teams/64/2601690370530.png",
+        "start_time": 1767531600,
+        "end_time": 1767538800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695a45a75fa2d",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

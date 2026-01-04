@@ -148,5 +148,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "مان سيتي",
+        "logo1": "https://imgs.ysscores.com/teams/64/4481690118308.png",
+        "name2": "تشيلسي",
+        "logo2": "https://imgs.ysscores.com/teams/64/2571690118280.png",
+        "start_time": 1767547800,
+        "end_time": 1767555000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695a467dba01f",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -208,5 +208,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "ريال سوسيداد",
+        "logo1": "https://imgs.ysscores.com/teams/64/9441690196745.png",
+        "name2": "أتلتيكو مدريد",
+        "logo2": "https://imgs.ysscores.com/teams/64/1431719588699.png",
+        "start_time": 1767556800,
+        "end_time": 1767564000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695a46d184daf",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -103,5 +103,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "ريال مدريد",
+        "logo1": "https://imgs.ysscores.com/teams/64/1871690196746.png",
+        "name2": "ريال بيتيس",
+        "logo2": "https://imgs.ysscores.com/teams/64/17645945054618.png",
+        "start_time": 1767539700,
+        "end_time": 1767546900,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695a46145df60",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -1,20 +1,5 @@
 [
     {
-        "name1": "نيجيريا",
-        "logo1": "https://imgs.ysscores.com/teams/64/9961763084205.png",
-        "name2": "موزمبيق",
-        "logo2": "https://imgs.ysscores.com/teams/64/9651763083639.png",
-        "start_time": 1767639600,
-        "end_time": 1767646800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_695b5b9ecec82",
-        "match_status": "مباشر",
-        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
-        "section": 1
-    },
-    {
         "name1": "مصر",
         "logo1": "https://imgs.ysscores.com/teams/64/9301763071949.png",
         "name2": "بنين",
@@ -25,6 +10,21 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_695b5b94c2a4d",
+        "match_status": "انتهت",
+        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
+        "section": 1
+    },
+    {
+        "name1": "نيجيريا",
+        "logo1": "https://imgs.ysscores.com/teams/64/9961763084205.png",
+        "name2": "موزمبيق",
+        "logo2": "https://imgs.ysscores.com/teams/64/9651763083639.png",
+        "start_time": 1767639600,
+        "end_time": 1767646800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695b5b9ecec82",
         "match_status": "انتهت",
         "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
         "section": 1

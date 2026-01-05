@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "مصر",
+        "logo1": "https://imgs.ysscores.com/teams/64/9301763071949.png",
+        "name2": "بنين",
+        "logo2": "https://imgs.ysscores.com/teams/64/8421763069265.png",
+        "start_time": 1767628800,
+        "end_time": 1767636000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695b5b94c2a4d",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

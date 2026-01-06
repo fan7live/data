@@ -13,5 +13,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "كوت ديفوار",
+        "logo1": "https://imgs.ysscores.com/teams/64/391763071210.png",
+        "name2": "بوركينا فاسو",
+        "logo2": "https://imgs.ysscores.com/teams/64/9521763070286.png",
+        "start_time": 1767726000,
+        "end_time": 1767733200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695d007007de6",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

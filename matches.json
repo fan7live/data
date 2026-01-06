@@ -1,20 +1,5 @@
 [
     {
-        "name1": "كوت ديفوار",
-        "logo1": "https://imgs.ysscores.com/teams/64/391763071210.png",
-        "name2": "بوركينا فاسو",
-        "logo2": "https://imgs.ysscores.com/teams/64/9521763070286.png",
-        "start_time": 1767726000,
-        "end_time": 1767733200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_695d007007de6",
-        "match_status": "مباشر",
-        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
-        "section": 1
-    },
-    {
         "name1": "وست هام",
         "logo1": "https://imgs.ysscores.com/teams/64/7191690118603.png",
         "name2": "نوتينغهام",
@@ -40,6 +25,21 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_695d00577f1ec",
+        "match_status": "انتهت",
+        "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
+        "section": 1
+    },
+    {
+        "name1": "كوت ديفوار",
+        "logo1": "https://imgs.ysscores.com/teams/64/391763071210.png",
+        "name2": "بوركينا فاسو",
+        "logo2": "https://imgs.ysscores.com/teams/64/9521763070286.png",
+        "start_time": 1767726000,
+        "end_time": 1767733200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695d007007de6",
         "match_status": "انتهت",
         "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
         "section": 1

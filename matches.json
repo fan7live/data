@@ -30,21 +30,6 @@
         "section": 1
     },
     {
-        "name1": "بارما",
-        "logo1": "https://imgs.ysscores.com/teams/64/4061690823331.png",
-        "name2": "إنتر ميلان",
-        "logo2": "https://imgs.ysscores.com/teams/64/3101690283003.png",
-        "start_time": 1767815100,
-        "end_time": 1767822300,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_695e782605a00",
-        "match_status": "مباشر",
-        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
-        "section": 1
-    },
-    {
         "name1": "مان سيتي",
         "logo1": "https://imgs.ysscores.com/teams/64/4481690118308.png",
         "name2": "برايتون",
@@ -100,6 +85,21 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_695e780e81cf5",
+        "match_status": "انتهت",
+        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
+        "section": 1
+    },
+    {
+        "name1": "بارما",
+        "logo1": "https://imgs.ysscores.com/teams/64/4061690823331.png",
+        "name2": "إنتر ميلان",
+        "logo2": "https://imgs.ysscores.com/teams/64/3101690283003.png",
+        "start_time": 1767815100,
+        "end_time": 1767822300,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_695e782605a00",
         "match_status": "انتهت",
         "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
         "section": 1

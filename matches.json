@@ -13,5 +13,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "مالي",
+        "logo1": "https://imgs.ysscores.com/teams/64/7571763083037.png",
+        "name2": "السنغال",
+        "logo2": "https://imgs.ysscores.com/teams/64/1831763086441.png",
+        "start_time": 1767974400,
+        "end_time": 1767981600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69606d938b580",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

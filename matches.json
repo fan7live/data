@@ -1,5 +1,20 @@
 [
     {
+        "name1": "خيتافي",
+        "logo1": "https://imgs.ysscores.com/teams/64/3451691957863.png",
+        "name2": "ريال سوسيداد",
+        "logo2": "https://imgs.ysscores.com/teams/64/9441690196745.png",
+        "start_time": 1767988800,
+        "end_time": 1767996000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69606d7acc4d7",
+        "match_status": "مباشر",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
+        "section": 1
+    },
+    {
         "name1": "الكاميرون",
         "logo1": "https://imgs.ysscores.com/teams/64/1341763070498.png",
         "name2": "المغرب",
@@ -27,21 +42,6 @@
         "id": "manual_69606da8ae6b6",
         "match_status": "مباشر",
         "channel_id": "a689c8ee-9a0c-4ca9-ba61-93892611d904",
-        "section": 1
-    },
-    {
-        "name1": "خيتافي",
-        "logo1": "https://imgs.ysscores.com/teams/64/3451691957863.png",
-        "name2": "ريال سوسيداد",
-        "logo2": "https://imgs.ysscores.com/teams/64/9441690196745.png",
-        "start_time": 1767988800,
-        "end_time": 1767996000,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_69606d7acc4d7",
-        "match_status": "لم تبدأ",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     },
     {

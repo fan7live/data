@@ -103,5 +103,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "تشارلتون أثلتيك",
+        "logo1": "https://imgs.ysscores.com/teams/64/7791690370524.png",
+        "name2": "تشيلسي",
+        "logo2": "https://imgs.ysscores.com/teams/64/2571690118280.png",
+        "start_time": 1768075200,
+        "end_time": 1768082400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6962478a1d338",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

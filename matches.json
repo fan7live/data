@@ -13,5 +13,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "نيوكاسل",
+        "logo1": "https://imgs.ysscores.com/teams/64/3721690119405.png",
+        "name2": "بورنموث",
+        "logo2": "https://imgs.ysscores.com/teams/64/7651690118769.png",
+        "start_time": 1768057200,
+        "end_time": 1768064400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69624640c62b6",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

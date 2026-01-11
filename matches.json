@@ -1,20 +1,5 @@
 [
     {
-        "name1": "برشلونة",
-        "logo1": "https://imgs.ysscores.com/teams/64/9541690196746.png",
-        "name2": "ريال مدريد",
-        "logo2": "https://imgs.ysscores.com/teams/64/1871690196746.png",
-        "start_time": 1768158000,
-        "end_time": 1768165200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696354f922eeb",
-        "match_status": "مباشر",
-        "channel_id": "6ed8778d-e4df-48d4-b3ad-7e2b82208ce1",
-        "section": 1
-    },
-    {
         "name1": "إنتر ميلان",
         "logo1": "https://imgs.ysscores.com/teams/64/3101690283003.png",
         "name2": "نابولي",
@@ -102,6 +87,21 @@
         "id": "manual_696354d4ee817",
         "match_status": "انتهت",
         "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
+        "section": 1
+    },
+    {
+        "name1": "برشلونة",
+        "logo1": "https://imgs.ysscores.com/teams/64/9541690196746.png",
+        "name2": "ريال مدريد",
+        "logo2": "https://imgs.ysscores.com/teams/64/1871690196746.png",
+        "start_time": 1768158000,
+        "end_time": 1768165200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696354f922eeb",
+        "match_status": "انتهت",
+        "channel_id": "6ed8778d-e4df-48d4-b3ad-7e2b82208ce1",
         "section": 1
     }
 ]

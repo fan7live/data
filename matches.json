@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "يوفنتوس",
+        "logo1": "https://imgs.ysscores.com/teams/64/9331690283003.png",
+        "name2": "كريمونيسي",
+        "logo2": "https://imgs.ysscores.com/teams/64/5011690370508.png",
+        "start_time": 1768247100,
+        "end_time": 1768254300,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696520cb0a688",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

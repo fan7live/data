@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "ضمك",
+        "logo1": "https://imgs.ysscores.com/teams/64/5631690299255.png",
+        "name2": "الاتحاد",
+        "logo2": "https://imgs.ysscores.com/teams/64/2231690298782.png",
+        "start_time": 1768325400,
+        "end_time": 1768332600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69661b8b73ccf",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

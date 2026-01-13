@@ -73,5 +73,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "ديبورتيفو لاكورونيا",
+        "logo1": "https://imgs.ysscores.com/teams/64/2961698772258.png",
+        "name2": "أتلتيكو مدريد",
+        "logo2": "https://imgs.ysscores.com/teams/64/1431719588699.png",
+        "start_time": 1768334400,
+        "end_time": 1768341600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69661c413fb5b",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

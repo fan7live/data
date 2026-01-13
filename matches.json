@@ -13,5 +13,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "هامبورغ",
+        "logo1": "https://imgs.ysscores.com/teams/64/261690370540.png",
+        "name2": "باير ليفركوزن",
+        "logo2": "https://imgs.ysscores.com/teams/64/7151690288816.png",
+        "start_time": 1768332600,
+        "end_time": 1768339800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69661be66fe7c",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

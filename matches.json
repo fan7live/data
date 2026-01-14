@@ -133,5 +133,20 @@
         "match_status": "لم تبدأ",
         "channel_id": "a689c8ee-9a0c-4ca9-ba61-93892611d904",
         "section": 1
+    },
+    {
+        "name1": "الشباب",
+        "logo1": "https://imgs.ysscores.com/teams/64/4261690298871.png",
+        "name2": "نيوم",
+        "logo2": "https://imgs.ysscores.com/teams/64/9361751106662.png",
+        "start_time": 1768411800,
+        "end_time": 1768419000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696754fbcfda4",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

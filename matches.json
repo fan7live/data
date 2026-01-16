@@ -1,20 +1,5 @@
 [
     {
-        "name1": "الاتحاد",
-        "logo1": "https://imgs.ysscores.com/teams/64/2231690298782.png",
-        "name2": "الاتفاق",
-        "logo2": "https://imgs.ysscores.com/teams/64/1151690298845.png",
-        "start_time": 1768584600,
-        "end_time": 1768591800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696a6e8876287",
-        "match_status": "مباشر",
-        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
-        "section": 1
-    },
-    {
         "name1": "باريس",
         "logo1": "https://imgs.ysscores.com/teams/64/4461690287785.png",
         "name2": "نادي ليل",
@@ -27,6 +12,21 @@
         "id": "manual_696a6ee1c6d90",
         "match_status": "لم تبدأ",
         "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
+        "section": 1
+    },
+    {
+        "name1": "الاتحاد",
+        "logo1": "https://imgs.ysscores.com/teams/64/2231690298782.png",
+        "name2": "الاتفاق",
+        "logo2": "https://imgs.ysscores.com/teams/64/1151690298845.png",
+        "start_time": 1768584600,
+        "end_time": 1768591800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696a6e8876287",
+        "match_status": "انتهت",
+        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
         "section": 1
     }
 ]

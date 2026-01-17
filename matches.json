@@ -223,5 +223,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "ريال بيتيس",
+        "logo1": "https://imgs.ysscores.com/teams/64/17645945054618.png",
+        "name2": "فياريال",
+        "logo2": "https://imgs.ysscores.com/teams/64/7121690196747.png",
+        "start_time": 1768680000,
+        "end_time": 1768687200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696b6826939d9",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

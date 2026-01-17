@@ -1,20 +1,5 @@
 [
     {
-        "name1": "مان يونايتد",
-        "logo1": "https://imgs.ysscores.com/teams/64/4871690119302.png",
-        "name2": "مان سيتي",
-        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
-        "start_time": 1768653000,
-        "end_time": 1768660200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696b66f5276d4",
-        "match_status": "مباشر",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
-        "section": 1
-    },
-    {
         "name1": "ريال مدريد",
         "logo1": "https://imgs.ysscores.com/teams/64/1871690196746.png",
         "name2": "ليفانتي",
@@ -42,6 +27,21 @@
         "id": "manual_696b67ac06ad3",
         "match_status": "مباشر",
         "channel_id": "428114ee-4b97-49f8-9500-343f9b4b6be8",
+        "section": 1
+    },
+    {
+        "name1": "دورتموند",
+        "logo1": "https://imgs.ysscores.com/teams/64/4201690288818.png",
+        "name2": "سانت باولي",
+        "logo2": "https://imgs.ysscores.com/teams/64/6091690370514.png",
+        "start_time": 1768660200,
+        "end_time": 1768667400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696b67e8a104c",
+        "match_status": "مباشر",
+        "channel_id": "a689c8ee-9a0c-4ca9-ba61-93892611d904",
         "section": 1
     },
     {
@@ -195,21 +195,6 @@
         "section": 1
     },
     {
-        "name1": "دورتموند",
-        "logo1": "https://imgs.ysscores.com/teams/64/4201690288818.png",
-        "name2": "سانت باولي",
-        "logo2": "https://imgs.ysscores.com/teams/64/6091690370514.png",
-        "start_time": 1768660200,
-        "end_time": 1768667400,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696b67e8a104c",
-        "match_status": "لم تبدأ",
-        "channel_id": "a689c8ee-9a0c-4ca9-ba61-93892611d904",
-        "section": 1
-    },
-    {
         "name1": "لايبزيج",
         "logo1": "https://imgs.ysscores.com/teams/64/8361734715237.png",
         "name2": "بايرن ميونخ",
@@ -297,6 +282,21 @@
         "id": "manual_696b686ec3bf0",
         "match_status": "لم تبدأ",
         "channel_id": "2dbd8b29-abcd-4f8a-a31b-cd47f7f80de2",
+        "section": 1
+    },
+    {
+        "name1": "مان يونايتد",
+        "logo1": "https://imgs.ysscores.com/teams/64/4871690119302.png",
+        "name2": "مان سيتي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
+        "start_time": 1768653000,
+        "end_time": 1768660200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696b66f5276d4",
+        "match_status": "انتهت",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     }
 ]

@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "مان يونايتد",
+        "logo1": "https://imgs.ysscores.com/teams/64/4871690119302.png",
+        "name2": "مان سيتي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
+        "start_time": 1768653000,
+        "end_time": 1768660200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696b66f5276d4",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

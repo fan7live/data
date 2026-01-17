@@ -208,5 +208,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "أوساسونا",
+        "logo1": "https://imgs.ysscores.com/teams/64/7961690196745.png",
+        "name2": "ريال أوفييدو",
+        "logo2": "https://imgs.ysscores.com/teams/64/1891698830716.png",
+        "start_time": 1768671000,
+        "end_time": 1768678200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696b681e1ee0a",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "ريال مايوركا",
+        "logo1": "https://imgs.ysscores.com/teams/64/5291690196746.png",
+        "name2": "أتلتيك بلباو",
+        "logo2": "https://imgs.ysscores.com/teams/64/1061690197944.png",
+        "start_time": 1768662900,
+        "end_time": 1768670100,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696b67319b68c",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

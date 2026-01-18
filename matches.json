@@ -15,21 +15,6 @@
         "section": 1
     },
     {
-        "name1": "ميلان",
-        "logo1": "https://imgs.ysscores.com/teams/64/3181690283002.png",
-        "name2": "ليتشي",
-        "logo2": "https://imgs.ysscores.com/teams/64/9031690283003.png",
-        "start_time": 1768765500,
-        "end_time": 1768772700,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696cc632d2806",
-        "match_status": "مباشر",
-        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
-        "section": 1
-    },
-    {
         "name1": "ريال سوسيداد",
         "logo1": "https://imgs.ysscores.com/teams/64/9441690196745.png",
         "name2": "برشلونة",
@@ -117,6 +102,21 @@
         "id": "manual_696cc5e8a7185",
         "match_status": "انتهت",
         "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
+        "section": 1
+    },
+    {
+        "name1": "ميلان",
+        "logo1": "https://imgs.ysscores.com/teams/64/3181690283002.png",
+        "name2": "ليتشي",
+        "logo2": "https://imgs.ysscores.com/teams/64/9031690283003.png",
+        "start_time": 1768765500,
+        "end_time": 1768772700,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696cc632d2806",
+        "match_status": "انتهت",
+        "channel_id": "d8de9d2e-a8ed-438b-a95e-68919cbfdb1c",
         "section": 1
     }
 ]

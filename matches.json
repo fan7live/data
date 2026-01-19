@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "إلتشي",
+        "logo1": "https://imgs.ysscores.com/teams/64/6441698766179.png",
+        "name2": "إشبيلية",
+        "logo2": "https://imgs.ysscores.com/teams/64/6931690196743.png",
+        "start_time": 1768852800,
+        "end_time": 1768860000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696e1ee692747",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

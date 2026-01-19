@@ -1,20 +1,5 @@
 [
     {
-        "name1": "المنستيري",
-        "logo1": "https://imgs.ysscores.com/teams/64/9111692796285.png",
-        "name2": "الترجي",
-        "logo2": "https://imgs.ysscores.com/teams/64/9451695299186.png",
-        "start_time": 1768827600,
-        "end_time": 1768834800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696e1eb100fbb",
-        "match_status": "مباشر",
-        "channel_id": "63cb17b0-c949-49d3-9957-ac7c72dcef91",
-        "section": 1
-    },
-    {
         "name1": "برايتون",
         "logo1": "https://imgs.ysscores.com/teams/64/2271696710594.png",
         "name2": "بورنموث",
@@ -42,6 +27,21 @@
         "id": "manual_696e1ee692747",
         "match_status": "لم تبدأ",
         "channel_id": "f0d5144f-9290-40bc-9cee-d7b820431107",
+        "section": 1
+    },
+    {
+        "name1": "المنستيري",
+        "logo1": "https://imgs.ysscores.com/teams/64/9111692796285.png",
+        "name2": "الترجي",
+        "logo2": "https://imgs.ysscores.com/teams/64/9451695299186.png",
+        "start_time": 1768827600,
+        "end_time": 1768834800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696e1eb100fbb",
+        "match_status": "انتهت",
+        "channel_id": "63cb17b0-c949-49d3-9957-ac7c72dcef91",
         "section": 1
     }
 ]

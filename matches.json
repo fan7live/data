@@ -13,5 +13,20 @@
         "match_status": "لم تبدأ",
         "channel_id": "63cb17b0-c949-49d3-9957-ac7c72dcef91",
         "section": 1
+    },
+    {
+        "name1": "برايتون",
+        "logo1": "https://imgs.ysscores.com/teams/64/2271696710594.png",
+        "name2": "بورنموث",
+        "logo2": "https://imgs.ysscores.com/teams/64/7651690118769.png",
+        "start_time": 1768852800,
+        "end_time": 1768860000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696e1edd2f2f0",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -1,20 +1,5 @@
 [
     {
-        "name1": "بودو/غليمت",
-        "logo1": "https://imgs.ysscores.com/teams/64/8781690370522.png",
-        "name2": "مان سيتي",
-        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
-        "start_time": 1768931100,
-        "end_time": 1768938300,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696eda2d9d91c",
-        "match_status": "مباشر",
-        "channel_id": "774e3368-3d2f-40d2-9831-072541a1d619",
-        "section": 1
-    },
-    {
         "name1": "ريال مدريد",
         "logo1": "https://imgs.ysscores.com/teams/64/1871690196746.png",
         "name2": "موناكو",
@@ -147,6 +132,21 @@
         "id": "manual_696eda21cdca8",
         "match_status": "انتهت",
         "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
+        "section": 1
+    },
+    {
+        "name1": "بودو/غليمت",
+        "logo1": "https://imgs.ysscores.com/teams/64/8781690370522.png",
+        "name2": "مان سيتي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
+        "start_time": 1768931100,
+        "end_time": 1768938300,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696eda2d9d91c",
+        "match_status": "انتهت",
+        "channel_id": "774e3368-3d2f-40d2-9831-072541a1d619",
         "section": 1
     }
 ]

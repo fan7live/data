@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "بودو/غليمت",
+        "logo1": "https://imgs.ysscores.com/teams/64/8781690370522.png",
+        "name2": "مان سيتي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4481690118308.png",
+        "start_time": 1768931100,
+        "end_time": 1768938300,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696eda2d9d91c",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

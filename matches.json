@@ -88,5 +88,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "سبورتينغ لشبونة",
+        "logo1": "https://imgs.ysscores.com/teams/64/9791690386587.png",
+        "name2": "باريس",
+        "logo2": "https://imgs.ysscores.com/teams/64/4461690287785.png",
+        "start_time": 1768939200,
+        "end_time": 1768946400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696eda6391bea",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

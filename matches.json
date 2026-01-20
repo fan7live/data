@@ -1,20 +1,5 @@
 [
     {
-        "name1": "الشباب",
-        "logo1": "https://imgs.ysscores.com/teams/64/4261690298871.png",
-        "name2": "النجمة",
-        "logo2": "https://imgs.ysscores.com/teams/64/8571691930620.png",
-        "start_time": 1768921500,
-        "end_time": 1768928700,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696ed9e672c94",
-        "match_status": "مباشر",
-        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
-        "section": 1
-    },
-    {
         "name1": "الأهلي",
         "logo1": "https://imgs.ysscores.com/teams/64/9091751485160.png",
         "name2": "الخليج",
@@ -147,6 +132,21 @@
         "id": "manual_696edb0bd44ef",
         "match_status": "لم تبدأ",
         "channel_id": "e199d2fb-a128-4065-9621-0300c5e5bc2b",
+        "section": 1
+    },
+    {
+        "name1": "الشباب",
+        "logo1": "https://imgs.ysscores.com/teams/64/4261690298871.png",
+        "name2": "النجمة",
+        "logo2": "https://imgs.ysscores.com/teams/64/8571691930620.png",
+        "start_time": 1768921500,
+        "end_time": 1768928700,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696ed9e672c94",
+        "match_status": "انتهت",
+        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
         "section": 1
     }
 ]

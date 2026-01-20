@@ -1,20 +1,5 @@
 [
     {
-        "name1": "الأهلي",
-        "logo1": "https://imgs.ysscores.com/teams/64/9091751485160.png",
-        "name2": "الخليج",
-        "logo2": "https://imgs.ysscores.com/teams/64/7451690299071.png",
-        "start_time": 1768930200,
-        "end_time": 1768937400,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_696eda21cdca8",
-        "match_status": "مباشر",
-        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
-        "section": 1
-    },
-    {
         "name1": "بودو/غليمت",
         "logo1": "https://imgs.ysscores.com/teams/64/8781690370522.png",
         "name2": "مان سيتي",
@@ -145,6 +130,21 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_696ed9e672c94",
+        "match_status": "انتهت",
+        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
+        "section": 1
+    },
+    {
+        "name1": "الأهلي",
+        "logo1": "https://imgs.ysscores.com/teams/64/9091751485160.png",
+        "name2": "الخليج",
+        "logo2": "https://imgs.ysscores.com/teams/64/7451690299071.png",
+        "start_time": 1768930200,
+        "end_time": 1768937400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696eda21cdca8",
         "match_status": "انتهت",
         "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
         "section": 1

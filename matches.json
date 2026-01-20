@@ -58,5 +58,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "إنتر ميلان",
+        "logo1": "https://imgs.ysscores.com/teams/64/3101690283003.png",
+        "name2": "أرسنال",
+        "logo2": "https://imgs.ysscores.com/teams/64/1701690118820.png",
+        "start_time": 1768939200,
+        "end_time": 1768946400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_696eda4d82de2",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

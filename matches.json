@@ -133,5 +133,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "نيوكاسل",
+        "logo1": "https://imgs.ysscores.com/teams/64/3721690119405.png",
+        "name2": "آيندهوفن",
+        "logo2": "https://imgs.ysscores.com/teams/64/3391690378187.png",
+        "start_time": 1769025600,
+        "end_time": 1769032800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6970461ef06dc",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -13,5 +13,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "كارباخ",
+        "logo1": "https://imgs.ysscores.com/teams/64/5151690822077.png",
+        "name2": "فرانكفورت",
+        "logo2": "https://imgs.ysscores.com/teams/64/231690288818.png",
+        "start_time": 1769017500,
+        "end_time": 1769024700,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_697045c19e528",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

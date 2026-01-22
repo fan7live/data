@@ -15,36 +15,6 @@
         "section": 1
     },
     {
-        "name1": "الهلال",
-        "logo1": "https://imgs.ysscores.com/teams/64/8761690298716.png",
-        "name2": "الفيحاء",
-        "logo2": "https://imgs.ysscores.com/teams/64/9981690292497.png",
-        "start_time": 1769103000,
-        "end_time": 1769110200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6971a0478790c",
-        "match_status": "مباشر",
-        "channel_id": null,
-        "section": null
-    },
-    {
-        "name1": "القادسية",
-        "logo1": "https://imgs.ysscores.com/teams/64/6611724280721.png",
-        "name2": "الاتحاد",
-        "logo2": "https://imgs.ysscores.com/teams/64/2231690298782.png",
-        "start_time": 1769103000,
-        "end_time": 1769110200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6971a069a858b",
-        "match_status": "مباشر",
-        "channel_id": null,
-        "section": null
-    },
-    {
         "name1": "روما",
         "logo1": "https://imgs.ysscores.com/teams/64/1041749305816.png",
         "name2": "شتوتجارت",
@@ -73,5 +43,35 @@
         "match_status": "لم تبدأ",
         "channel_id": "e199d2fb-a128-4065-9621-0300c5e5bc2b",
         "section": 1
+    },
+    {
+        "name1": "الهلال",
+        "logo1": "https://imgs.ysscores.com/teams/64/8761690298716.png",
+        "name2": "الفيحاء",
+        "logo2": "https://imgs.ysscores.com/teams/64/9981690292497.png",
+        "start_time": 1769103000,
+        "end_time": 1769110200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6971a0478790c",
+        "match_status": "انتهت",
+        "channel_id": null,
+        "section": null
+    },
+    {
+        "name1": "القادسية",
+        "logo1": "https://imgs.ysscores.com/teams/64/6611724280721.png",
+        "name2": "الاتحاد",
+        "logo2": "https://imgs.ysscores.com/teams/64/2231690298782.png",
+        "start_time": 1769103000,
+        "end_time": 1769110200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6971a069a858b",
+        "match_status": "انتهت",
+        "channel_id": null,
+        "section": null
     }
 ]

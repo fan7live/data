@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "فيكتوريا بيلزن",
+        "logo1": "https://imgs.ysscores.com/teams/64/1111690370499.png",
+        "name2": "بورتو",
+        "logo2": "https://imgs.ysscores.com/teams/64/4801690385949.png",
+        "start_time": 1769103900,
+        "end_time": 1769111100,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69719abe7994c",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -73,5 +73,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "روما",
+        "logo1": "https://imgs.ysscores.com/teams/64/1041749305816.png",
+        "name2": "شتوتجارت",
+        "logo2": "https://imgs.ysscores.com/teams/64/8731690288819.png",
+        "start_time": 1769112000,
+        "end_time": 1769119200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69719b1012349",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

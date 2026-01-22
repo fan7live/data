@@ -133,5 +133,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "سالزبورج",
+        "logo1": "https://imgs.ysscores.com/teams/64/3591690370551.png",
+        "name2": "بازل",
+        "logo2": "https://imgs.ysscores.com/teams/64/6771690370548.png",
+        "start_time": 1769112000,
+        "end_time": 1769119200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69719b9881496",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

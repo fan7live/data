@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "الأهلي",
+        "logo1": "https://imgs.ysscores.com/teams/64/9591694714907.png",
+        "name2": "يانغ أفريكانز",
+        "logo2": "https://imgs.ysscores.com/teams/64/2951692283216.png",
+        "start_time": 1769184000,
+        "end_time": 1769191200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6972c9ab4c803",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

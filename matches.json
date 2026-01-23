@@ -1,20 +1,5 @@
 [
     {
-        "name1": "صن داونز",
-        "logo1": "https://imgs.ysscores.com/teams/64/5061694715092.png",
-        "name2": "الهلال",
-        "logo2": "https://imgs.ysscores.com/teams/64/9571692282425.png",
-        "start_time": 1769191200,
-        "end_time": 1769198400,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6972c9c8e93ea",
-        "match_status": "مباشر",
-        "channel_id": "8563fea4-161c-4219-aa19-6f6160e2fab7",
-        "section": 1
-    },
-    {
         "name1": "أوكسير",
         "logo1": "https://imgs.ysscores.com/teams/64/8671690370530.png",
         "name2": "باريس",
@@ -57,6 +42,21 @@
         "id": "manual_6972c9ab4c803",
         "match_status": "انتهت",
         "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
+        "section": 1
+    },
+    {
+        "name1": "صن داونز",
+        "logo1": "https://imgs.ysscores.com/teams/64/5061694715092.png",
+        "name2": "الهلال",
+        "logo2": "https://imgs.ysscores.com/teams/64/9571692282425.png",
+        "start_time": 1769191200,
+        "end_time": 1769198400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6972c9c8e93ea",
+        "match_status": "انتهت",
+        "channel_id": "8563fea4-161c-4219-aa19-6f6160e2fab7",
         "section": 1
     }
 ]

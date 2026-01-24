@@ -133,5 +133,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "إشبيلية",
+        "logo1": "https://imgs.ysscores.com/teams/64/6931690196743.png",
+        "name2": "أتلتيك بلباو",
+        "logo2": "https://imgs.ysscores.com/teams/64/1061690197944.png",
+        "start_time": 1769275800,
+        "end_time": 1769283000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6974205cc4e75",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

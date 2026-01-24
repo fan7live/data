@@ -1,35 +1,5 @@
 [
     {
-        "name1": "شبيبة القبائل",
-        "logo1": "https://imgs.ysscores.com/teams/64/2261693417840.png",
-        "name2": "الجيش الملكي",
-        "logo2": "https://imgs.ysscores.com/teams/64/4171692205946.png",
-        "start_time": 1769270400,
-        "end_time": 1769277600,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_69742027a43e6",
-        "match_status": "مباشر",
-        "channel_id": "774e3368-3d2f-40d2-9831-072541a1d619",
-        "section": 1
-    },
-    {
-        "name1": "الترجي",
-        "logo1": "https://imgs.ysscores.com/teams/64/9451695299186.png",
-        "name2": "سيمبا",
-        "logo2": "https://imgs.ysscores.com/teams/64/821694715302.png",
-        "start_time": 1769270400,
-        "end_time": 1769277600,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_69742038038ee",
-        "match_status": "مباشر",
-        "channel_id": "c916c1e3-fb17-4596-94d0-b7da8265bb7f",
-        "section": 1
-    },
-    {
         "name1": "إشبيلية",
         "logo1": "https://imgs.ysscores.com/teams/64/6931690196743.png",
         "name2": "أتلتيك بلباو",
@@ -237,6 +207,36 @@
         "id": "manual_6974201376969",
         "match_status": "انتهت",
         "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
+        "section": 1
+    },
+    {
+        "name1": "شبيبة القبائل",
+        "logo1": "https://imgs.ysscores.com/teams/64/2261693417840.png",
+        "name2": "الجيش الملكي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4171692205946.png",
+        "start_time": 1769270400,
+        "end_time": 1769277600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69742027a43e6",
+        "match_status": "انتهت",
+        "channel_id": "774e3368-3d2f-40d2-9831-072541a1d619",
+        "section": 1
+    },
+    {
+        "name1": "الترجي",
+        "logo1": "https://imgs.ysscores.com/teams/64/9451695299186.png",
+        "name2": "سيمبا",
+        "logo2": "https://imgs.ysscores.com/teams/64/821694715302.png",
+        "start_time": 1769270400,
+        "end_time": 1769277600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69742038038ee",
+        "match_status": "انتهت",
+        "channel_id": "c916c1e3-fb17-4596-94d0-b7da8265bb7f",
         "section": 1
     }
 ]

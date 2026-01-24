@@ -193,5 +193,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "نهضة بركان",
+        "logo1": "https://imgs.ysscores.com/teams/64/1121692794477.png",
+        "name2": "بيراميدز",
+        "logo2": "https://imgs.ysscores.com/teams/64/5771692283569.png",
+        "start_time": 1769281200,
+        "end_time": 1769288400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_697420e5e394c",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

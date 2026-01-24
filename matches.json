@@ -103,5 +103,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "شبيبة القبائل",
+        "logo1": "https://imgs.ysscores.com/teams/64/2261693417840.png",
+        "name2": "الجيش الملكي",
+        "logo2": "https://imgs.ysscores.com/teams/64/4171692205946.png",
+        "start_time": 1769270400,
+        "end_time": 1769277600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69742027a43e6",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

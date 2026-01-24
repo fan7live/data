@@ -1,20 +1,5 @@
 [
     {
-        "name1": "الخلود",
-        "logo1": "https://imgs.ysscores.com/teams/64/5501757530062.png",
-        "name2": "الاتفاق",
-        "logo2": "https://imgs.ysscores.com/teams/64/1151690298845.png",
-        "start_time": 1769268000,
-        "end_time": 1769275200,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6974201376969",
-        "match_status": "مباشر",
-        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
-        "section": 1
-    },
-    {
         "name1": "شبيبة القبائل",
         "logo1": "https://imgs.ysscores.com/teams/64/2261693417840.png",
         "name2": "الجيش الملكي",
@@ -237,6 +222,21 @@
         "id": "manual_69741ffa4c293",
         "match_status": "انتهت",
         "channel_id": "5629d0fa-6cac-47fd-bcb4-c6df271d8a09",
+        "section": 1
+    },
+    {
+        "name1": "الخلود",
+        "logo1": "https://imgs.ysscores.com/teams/64/5501757530062.png",
+        "name2": "الاتفاق",
+        "logo2": "https://imgs.ysscores.com/teams/64/1151690298845.png",
+        "start_time": 1769268000,
+        "end_time": 1769275200,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6974201376969",
+        "match_status": "انتهت",
+        "channel_id": "7a1287b0-6d27-4040-a79f-98b5b4c6c896",
         "section": 1
     }
 ]

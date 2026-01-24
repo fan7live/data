@@ -208,5 +208,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "اتحاد العاصمة",
+        "logo1": "https://imgs.ysscores.com/teams/64/9611695834503.png",
+        "name2": "دجوليبا",
+        "logo2": "https://imgs.ysscores.com/teams/64/7181732355083.png",
+        "start_time": 1769281200,
+        "end_time": 1769288400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_697420f62be78",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

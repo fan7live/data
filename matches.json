@@ -193,5 +193,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "موناكو",
+        "logo1": "https://imgs.ysscores.com/teams/64/3861690287583.png",
+        "name2": "يوفنتوس",
+        "logo2": "https://imgs.ysscores.com/teams/64/9331690283003.png",
+        "start_time": 1769630400,
+        "end_time": 1769637600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6979a90672aab",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

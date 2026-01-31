@@ -1,32 +1,17 @@
 [
     {
-        "name1": "ليدز يونايتد",
-        "logo1": "https://imgs.ysscores.com/teams/64/4691690458244.png",
-        "name2": "أرسنال",
-        "logo2": "https://imgs.ysscores.com/teams/64/1701690118820.png",
-        "start_time": 1769871600,
-        "end_time": 1769878800,
+        "name1": "نابولي",
+        "logo1": "https://imgs.ysscores.com/teams/64/9521720636634.png",
+        "name2": "فيورنتينا",
+        "logo2": "https://imgs.ysscores.com/teams/64/1231690283002.png",
+        "start_time": 1769878800,
+        "end_time": 1769886000,
         "champions": "غير معروف",
         "channel": "غير معروف",
         "commentary": "غير معروف",
-        "id": "manual_697e0002db5d4",
+        "id": "manual_697e004628155",
         "match_status": "مباشر",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
-        "section": 1
-    },
-    {
-        "name1": "وولفرهامبتون",
-        "logo1": "https://imgs.ysscores.com/teams/64/9631690118479.png",
-        "name2": "بورنموث",
-        "logo2": "https://imgs.ysscores.com/teams/64/7651690118769.png",
-        "start_time": 1769871600,
-        "end_time": 1769878800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_697e000b9741a",
-        "match_status": "مباشر",
-        "channel_id": "c0d68f6c-79fd-423e-ac2a-dc9de59a4fd7",
+        "channel_id": "83ea1d10-4a0f-4617-b9d8-5bf4de6449eb",
         "section": 1
     },
     {
@@ -90,21 +75,6 @@
         "section": 1
     },
     {
-        "name1": "نابولي",
-        "logo1": "https://imgs.ysscores.com/teams/64/9521720636634.png",
-        "name2": "فيورنتينا",
-        "logo2": "https://imgs.ysscores.com/teams/64/1231690283002.png",
-        "start_time": 1769878800,
-        "end_time": 1769886000,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_697e004628155",
-        "match_status": "لم تبدأ",
-        "channel_id": "83ea1d10-4a0f-4617-b9d8-5bf4de6449eb",
-        "section": 1
-    },
-    {
         "name1": "هامبورغ",
         "logo1": "https://imgs.ysscores.com/teams/64/261690370540.png",
         "name2": "بايرن ميونخ",
@@ -118,5 +88,35 @@
         "match_status": "لم تبدأ",
         "channel_id": "7697ae39-8bd7-468c-8df2-519cee3bb149",
         "section": 2
+    },
+    {
+        "name1": "ليدز يونايتد",
+        "logo1": "https://imgs.ysscores.com/teams/64/4691690458244.png",
+        "name2": "أرسنال",
+        "logo2": "https://imgs.ysscores.com/teams/64/1701690118820.png",
+        "start_time": 1769871600,
+        "end_time": 1769878800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_697e0002db5d4",
+        "match_status": "انتهت",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
+        "section": 1
+    },
+    {
+        "name1": "وولفرهامبتون",
+        "logo1": "https://imgs.ysscores.com/teams/64/9631690118479.png",
+        "name2": "بورنموث",
+        "logo2": "https://imgs.ysscores.com/teams/64/7651690118769.png",
+        "start_time": 1769871600,
+        "end_time": 1769878800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_697e000b9741a",
+        "match_status": "انتهت",
+        "channel_id": "c0d68f6c-79fd-423e-ac2a-dc9de59a4fd7",
+        "section": 1
     }
 ]

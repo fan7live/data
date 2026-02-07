@@ -148,5 +148,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "نيوكاسل",
+        "logo1": "https://imgs.ysscores.com/teams/64/3721690119405.png",
+        "name2": "برينتفورد",
+        "logo2": "https://imgs.ysscores.com/teams/64/4791690118957.png",
+        "start_time": 1770485400,
+        "end_time": 1770492600,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69868c9a6e745",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

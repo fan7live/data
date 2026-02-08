@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "نيروبي",
+        "logo1": "https://imgs.ysscores.com/teams/64/5761762179753.png",
+        "name2": "الوداد الرياضي",
+        "logo2": "https://imgs.ysscores.com/teams/64/3131694715431.png",
+        "start_time": 1770555600,
+        "end_time": 1770562800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69887823ad38e",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

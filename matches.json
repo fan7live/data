@@ -1,20 +1,5 @@
 [
     {
-        "name1": "روما",
-        "logo1": "https://imgs.ysscores.com/teams/64/1041749305816.png",
-        "name2": "كالياري",
-        "logo2": "https://imgs.ysscores.com/teams/64/7311690283001.png",
-        "start_time": 1770666300,
-        "end_time": 1770673500,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_6989d3aac7103",
-        "match_status": "مباشر",
-        "channel_id": "83ea1d10-4a0f-4617-b9d8-5bf4de6449eb",
-        "section": 1
-    },
-    {
         "name1": "فياريال",
         "logo1": "https://imgs.ysscores.com/teams/64/7121690196747.png",
         "name2": "إسبانيول",
@@ -85,6 +70,21 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_6989d3a1d3e73",
+        "match_status": "انتهت",
+        "channel_id": "83ea1d10-4a0f-4617-b9d8-5bf4de6449eb",
+        "section": 1
+    },
+    {
+        "name1": "روما",
+        "logo1": "https://imgs.ysscores.com/teams/64/1041749305816.png",
+        "name2": "كالياري",
+        "logo2": "https://imgs.ysscores.com/teams/64/7311690283001.png",
+        "start_time": 1770666300,
+        "end_time": 1770673500,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6989d3aac7103",
         "match_status": "انتهت",
         "channel_id": "83ea1d10-4a0f-4617-b9d8-5bf4de6449eb",
         "section": 1

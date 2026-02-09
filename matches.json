@@ -43,5 +43,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "بورتو",
+        "logo1": "https://imgs.ysscores.com/teams/64/4801690385949.png",
+        "name2": "سبورتينغ لشبونة",
+        "logo2": "https://imgs.ysscores.com/teams/64/9791690386587.png",
+        "start_time": 1770669900,
+        "end_time": 1770677100,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_6989d389280b3",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

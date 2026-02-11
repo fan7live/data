@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "الزمالك",
+        "logo1": "https://imgs.ysscores.com/teams/64/7971694082496.png",
+        "name2": "سموحة",
+        "logo2": "https://imgs.ysscores.com/teams/64/481694082088.png",
+        "start_time": 1770832800,
+        "end_time": 1770840000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_698c512fa7216",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

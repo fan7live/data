@@ -13,20 +13,5 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
-    },
-    {
-        "name1": "سباهان أصفهان",
-        "logo1": "https://imgs.ysscores.com/teams/64/3731693171276.png",
-        "name2": "الأهلي",
-        "logo2": "https://imgs.ysscores.com/teams/64/5031722879444.png",
-        "start_time": 1770825600,
-        "end_time": 1770832800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_698c50a681f00",
-        "match_status": "لم تبدأ",
-        "channel_id": null,
-        "section": null
     }
 ]

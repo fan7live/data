@@ -9,21 +9,21 @@
         "order": 0
     },
     {
-        "id": "slider_690b8a0c03b96",
-        "name": "انضم الي قناة التليجرام",
-        "image": "https:\/\/app.fanlive.org\/uploads\/1762607618_Picsart_25-11-08_15-13-17-152.jpg",
-        "type": "4",
-        "value": "https:\/\/t.me\/fanlivetv",
-        "section": "0",
-        "order": 1
-    },
-    {
         "id": "slider_698de604c9944",
         "name": "اتلتيكو مدريد ضد برشلونة ",
         "image": "https:\/\/app.fanlive.org\/uploads\/1770907140_BlackandYellowMinimalistSuperLeagueMatchDayInstagramPost_20260212_163456_.png",
         "type": "3",
         "value": "ac1f4831-3915-4228-80d8-960930edd57a",
         "section": "2",
+        "order": 1
+    },
+    {
+        "id": "slider_690b8a0c03b96",
+        "name": "انضم الي قناة التليجرام",
+        "image": "https:\/\/app.fanlive.org\/uploads\/1762607618_Picsart_25-11-08_15-13-17-152.jpg",
+        "type": "4",
+        "value": "https:\/\/t.me\/fanlivetv",
+        "section": "0",
         "order": 2
     }
 ]

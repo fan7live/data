@@ -1,20 +1,5 @@
 [
     {
-        "name1": "رين",
-        "logo1": "https://imgs.ysscores.com/teams/64/5061690287944.png",
-        "name2": "باريس",
-        "logo2": "https://imgs.ysscores.com/teams/64/4461690287785.png",
-        "start_time": 1771005600,
-        "end_time": 1771012800,
-        "champions": "غير معروف",
-        "channel": "غير معروف",
-        "commentary": "غير معروف",
-        "id": "manual_698e774fe54b9",
-        "match_status": "مباشر",
-        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
-        "section": 1
-    },
-    {
         "name1": "دورتموند",
         "logo1": "https://imgs.ysscores.com/teams/64/4201690288818.png",
         "name2": "ماينتس",
@@ -70,7 +55,7 @@
         "channel": "غير معروف",
         "commentary": "غير معروف",
         "id": "manual_698e779a9555a",
-        "match_status": "لم تبدأ",
+        "match_status": "مباشر",
         "channel_id": "f0d5144f-9290-40bc-9cee-d7b820431107",
         "section": 1
     },
@@ -117,6 +102,21 @@
         "id": "manual_698e77423271b",
         "match_status": "انتهت",
         "channel_id": "4b3fc6ac-d8a2-4854-b13e-4b59e5a93006",
+        "section": 1
+    },
+    {
+        "name1": "رين",
+        "logo1": "https://imgs.ysscores.com/teams/64/5061690287944.png",
+        "name2": "باريس",
+        "logo2": "https://imgs.ysscores.com/teams/64/4461690287785.png",
+        "start_time": 1771005600,
+        "end_time": 1771012800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_698e774fe54b9",
+        "match_status": "انتهت",
+        "channel_id": "d6d19564-6f6b-49a1-b193-dc3c4613b8a3",
         "section": 1
     }
 ]

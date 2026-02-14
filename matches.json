@@ -193,5 +193,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "المصري",
+        "logo1": "https://imgs.ysscores.com/teams/64/1521694644423.png",
+        "name2": "زيسكو",
+        "logo2": "https://imgs.ysscores.com/teams/64/5891762181712.png",
+        "start_time": 1771084800,
+        "end_time": 1771092000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_698fd43425c8e",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

@@ -1,20 +1,11 @@
 [
     {
-        "id": "slider_698fde0fb6d8c",
-        "name": "انتر ميلان ضد يوفينتوس ",
-        "image": "https:\/\/f.top4top.io\/p_3697ze5zw1.jpg",
-        "type": "3",
-        "value": "83ea1d10-4a0f-4617-b9d8-5bf4de6449eb",
-        "section": "1",
-        "order": 0
-    },
-    {
         "id": "slider_690b8a0c03b96",
         "name": "انضم الي قناة التليجرام",
         "image": "https:\/\/app.fanlive.org\/uploads\/1762607618_Picsart_25-11-08_15-13-17-152.jpg",
         "type": "4",
         "value": "https:\/\/t.me\/fanlivetv",
         "section": "0",
-        "order": 1
+        "order": 0
     }
 ]

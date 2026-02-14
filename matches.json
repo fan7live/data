@@ -298,5 +298,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "بيراميدز",
+        "logo1": "https://imgs.ysscores.com/teams/64/5771692283569.png",
+        "name2": "باور ديناموز",
+        "logo2": "https://imgs.ysscores.com/teams/64/9961692206088.png",
+        "start_time": 1771095600,
+        "end_time": 1771102800,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_698fd51d931f2",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

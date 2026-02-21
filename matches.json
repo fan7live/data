@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "ريال سوسيداد",
+        "logo1": "https://imgs.ysscores.com/teams/64/9441690196745.png",
+        "name2": "ريال أوفييدو",
+        "logo2": "https://imgs.ysscores.com/teams/64/1891698830716.png",
+        "start_time": 1771678800,
+        "end_time": 1771686000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_699918006d3fa",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

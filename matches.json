@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name1": "فيورنتينا",
+        "logo1": "https://imgs.ysscores.com/teams/64/1231690283002.png",
+        "name2": "بيزا",
+        "logo2": "https://imgs.ysscores.com/teams/64/8651691681667.png",
+        "start_time": 1771867800,
+        "end_time": 1771875000,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_699c37ac72b0c",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
+    }
+]

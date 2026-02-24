@@ -88,5 +88,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "نيوكاسل",
+        "logo1": "https://imgs.ysscores.com/teams/64/3721690119405.png",
+        "name2": "كارباخ",
+        "logo2": "https://imgs.ysscores.com/teams/64/5151690822077.png",
+        "start_time": 1771963200,
+        "end_time": 1771970400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_699d4400e4f8a",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

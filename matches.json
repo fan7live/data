@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "جيل فيسينتي",
+        "logo1": "https://imgs.ysscores.com/teams/64/7981690385058.png",
+        "name2": "بنفيكا",
+        "logo2": "https://imgs.ysscores.com/teams/64/4491690386690.png",
+        "start_time": 1772482500,
+        "end_time": 1772489700,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69a5a7411e3da",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

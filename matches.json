@@ -28,5 +28,20 @@
         "match_status": "لم تبدأ",
         "channel_id": null,
         "section": null
+    },
+    {
+        "name1": "بورنموث",
+        "logo1": "https://imgs.ysscores.com/teams/64/7651690118769.png",
+        "name2": "برينتفورد",
+        "logo2": "https://imgs.ysscores.com/teams/64/4791690118957.png",
+        "start_time": 1772566200,
+        "end_time": 1772573400,
+        "champions": "غير معروف",
+        "channel": "غير معروف",
+        "commentary": "غير معروف",
+        "id": "manual_69a6f2d8c57d0",
+        "match_status": "لم تبدأ",
+        "channel_id": null,
+        "section": null
     }
 ]

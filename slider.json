@@ -1,20 +1,11 @@
 [
     {
-        "id": "slider_69a73008a932d",
-        "name": "برشلونة ضد أتلتيكو مدريد",
-        "image": "https:\/\/h.top4top.io\/p_3714zrpvv1.jpg",
-        "type": "3",
-        "value": "baec003c-06f8-4a08-8b6a-ca9882d6da89",
-        "section": "1",
-        "order": 0
-    },
-    {
         "id": "slider_690b8a0c03b96",
         "name": "انضم الي قناة التليجرام",
         "image": "https:\/\/app.fanlive.org\/uploads\/1762607618_Picsart_25-11-08_15-13-17-152.jpg",
         "type": "4",
         "value": "https:\/\/t.me\/fanlivetv",
         "section": "0",
-        "order": 1
+        "order": 0
     }
 ]
